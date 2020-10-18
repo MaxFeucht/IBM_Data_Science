@@ -1,5 +1,5 @@
 # IBM_Data_Science
-Scripts and Assignments from my IBM Data Science Course:
+Scripts and Assignments from my IBM Data Science Course written in Python:
 
 SQL //
 Data Analysis //
